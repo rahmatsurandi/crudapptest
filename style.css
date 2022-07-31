@@ -1,0 +1,19 @@
+nav {
+  width: 100%;
+  height: auto;
+  position: fixed;
+}
+.navbar a {
+  font-size: 30px;
+  color: blueviolet;
+  font-weight: 300;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#reg {
+  font-size: 20px;
+  font-weight: 300;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#add {
+  margin-left: 20px;
+}

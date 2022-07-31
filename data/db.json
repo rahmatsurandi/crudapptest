@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "noReg": "B-4234-TBG",
+      "nama": "Suryo",
+      "merk": "yamaha mio",
+      "Tahun": 2005,
+      "kapasitas": "125CC",
+      "warna": "merah",
+      "bahanBakar": "bensin"
+    },
+    {
+      "id": 2,
+      "noReg": "B-4235-TBG",
+      "nama": "Sujonoo",
+      "merk": "yamaha rx-king",
+      "Tahun": 2003,
+      "kapasitas": "125CC",
+      "warna": "hitam",
+      "bahanBakar": "bensin"
+    }
+  ]
+}
